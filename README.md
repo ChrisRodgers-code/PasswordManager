@@ -5,7 +5,7 @@
 
  open terminal (cmd) and type:
 
- cd C:\<path_to_exe_dir>
+ cd C:\\<path_to_exe_dir>
 
 pass_manager.exe <option> <url> <new_password=null>
 
