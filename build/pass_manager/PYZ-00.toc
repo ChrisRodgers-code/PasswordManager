@@ -1,4 +1,4 @@
-('C:\\Users\\crodgers2\\Desktop\\PasswordMagager\\build\\pass_manager\\PYZ-00.pyz',
+('C:\\Users\\crodgers2\\Desktop\\PasswordMagager\\PasswordManager\\build\\pass_manager\\PYZ-00.pyz',
  [('tempfile',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\tempfile.py',
@@ -823,9 +823,61 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
   ('pkg_resources._vendor.packaging.specifiers',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\win32comext\\shell\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.pyparsing',
    'c:\\program files (x86)\\microsoft visual '
@@ -858,58 +910,6 @@
   ('netbios',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\win32\\lib\\netbios.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.six',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._compat',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.markers',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.appdirs',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
-   'PYMODULE'),
-  ('win32com.shell.shellcon',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
-   'PYMODULE'),
-  ('win32com.shell',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\win32comext\\shell\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._structures',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.requirements',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.version',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.utils',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
    'PYMODULE'),
   ('distutils.util',
    'c:\\program files (x86)\\microsoft visual '
@@ -1047,13 +1047,13 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\six.py',
    'PYMODULE'),
-  ('stringprep',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\stringprep.py',
-   'PYMODULE'),
   ('tracemalloc',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\stringprep.py',
    'PYMODULE'),
   ('h5py',
    'c:\\program files (x86)\\microsoft visual '
@@ -1183,17 +1183,21 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\__init__.py',
    'PYMODULE'),
+  ('pygments.lexers._stan_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_stan_builtins.py',
+   'PYMODULE'),
   ('pygments.lexers._tsql_builtins',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_tsql_builtins.py',
    'PYMODULE'),
+  ('pygments.lexers._scilab_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_scilab_builtins.py',
+   'PYMODULE'),
   ('pygments.lexers._mql_builtins',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_mql_builtins.py',
-   'PYMODULE'),
-  ('pygments.lexers._stan_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_stan_builtins.py',
    'PYMODULE'),
   ('pygments.modeline',
    'c:\\program files (x86)\\microsoft visual '
@@ -1207,13 +1211,9 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\__init__.py',
    'PYMODULE'),
-  ('pygments.styles',
+  ('pygments.styles.bw',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\__init__.py',
-   'PYMODULE'),
-  ('pygments.styles.emacs',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\emacs.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\bw.py',
    'PYMODULE'),
   ('pygments.token',
    'c:\\program files (x86)\\microsoft visual '
@@ -1223,85 +1223,41 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\style.py',
    'PYMODULE'),
-  ('pygments.styles.borland',
+  ('pygments.styles.stata',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\borland.py',
-   'PYMODULE'),
-  ('pygments.styles.algol',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\algol.py',
-   'PYMODULE'),
-  ('pygments.styles.igor',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\igor.py',
-   'PYMODULE'),
-  ('pygments.styles.paraiso_light',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\paraiso_light.py',
-   'PYMODULE'),
-  ('pygments.styles.manni',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\manni.py',
-   'PYMODULE'),
-  ('pygments.styles.rrt',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\rrt.py',
-   'PYMODULE'),
-  ('pygments.styles.trac',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\trac.py',
-   'PYMODULE'),
-  ('pygments.styles.autumn',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\autumn.py',
-   'PYMODULE'),
-  ('pygments.styles.paraiso_dark',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\paraiso_dark.py',
-   'PYMODULE'),
-  ('pygments.styles.murphy',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\murphy.py',
-   'PYMODULE'),
-  ('pygments.styles.bw',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\bw.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\stata.py',
    'PYMODULE'),
   ('pygments.styles.lovelace',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\lovelace.py',
    'PYMODULE'),
-  ('pygments.styles.fruity',
+  ('pygments.styles.borland',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\fruity.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\borland.py',
    'PYMODULE'),
-  ('pygments.styles.algol_nu',
+  ('pygments.styles.monokai',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\algol_nu.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\monokai.py',
+   'PYMODULE'),
+  ('pygments.styles.abap',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\abap.py',
+   'PYMODULE'),
+  ('pygments.styles.default',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\default.py',
    'PYMODULE'),
   ('pygments.styles.colorful',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\colorful.py',
    'PYMODULE'),
-  ('pygments.styles.xcode',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\xcode.py',
-   'PYMODULE'),
-  ('pygments.styles.rainbow_dash',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\rainbow_dash.py',
-   'PYMODULE'),
-  ('pygments.styles.friendly',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\friendly.py',
-   'PYMODULE'),
   ('pygments.styles.vs',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\vs.py',
    'PYMODULE'),
-  ('pygments.styles.abap',
+  ('pygments.styles.xcode',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\abap.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\xcode.py',
    'PYMODULE'),
   ('pygments.styles.tango',
    'c:\\program files (x86)\\microsoft visual '
@@ -1311,41 +1267,89 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\native.py',
    'PYMODULE'),
-  ('pygments.styles.stata',
+  ('pygments.styles',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\stata.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\__init__.py',
    'PYMODULE'),
-  ('pygments.styles.perldoc',
+  ('pygments.styles.rrt',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\perldoc.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\rrt.py',
    'PYMODULE'),
-  ('pygments.styles.pastie',
+  ('pygments.styles.rainbow_dash',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\pastie.py',
-   'PYMODULE'),
-  ('pygments.styles.default',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\default.py',
-   'PYMODULE'),
-  ('pygments.styles.vim',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\vim.py',
-   'PYMODULE'),
-  ('pygments.styles.monokai',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\monokai.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\rainbow_dash.py',
    'PYMODULE'),
   ('pygments.styles.arduino',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\arduino.py',
    'PYMODULE'),
+  ('pygments.styles.murphy',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\murphy.py',
+   'PYMODULE'),
+  ('pygments.styles.vim',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\vim.py',
+   'PYMODULE'),
   ('pygments.styles.sas',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\sas.py',
    'PYMODULE'),
-  ('pygments.lexers.dsls',
+  ('pygments.styles.perldoc',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\dsls.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\perldoc.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\friendly.py',
+   'PYMODULE'),
+  ('pygments.styles.igor',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\igor.py',
+   'PYMODULE'),
+  ('pygments.styles.algol',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\algol.py',
+   'PYMODULE'),
+  ('pygments.styles.emacs',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\emacs.py',
+   'PYMODULE'),
+  ('pygments.styles.trac',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\trac.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_dark',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\paraiso_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.manni',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\manni.py',
+   'PYMODULE'),
+  ('pygments.styles.fruity',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\fruity.py',
+   'PYMODULE'),
+  ('pygments.styles.pastie',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\pastie.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_light',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\paraiso_light.py',
+   'PYMODULE'),
+  ('pygments.styles.algol_nu',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\algol_nu.py',
+   'PYMODULE'),
+  ('pygments.styles.autumn',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\styles\\autumn.py',
+   'PYMODULE'),
+  ('pygments.lexers.automation',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\automation.py',
    'PYMODULE'),
   ('pygments.lexer',
    'c:\\program files (x86)\\microsoft visual '
@@ -1515,393 +1519,17 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\filter.py',
    'PYMODULE'),
-  ('pygments.lexers.ampl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ampl.py',
-   'PYMODULE'),
-  ('pygments.lexers.int_fiction',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\int_fiction.py',
-   'PYMODULE'),
-  ('pygments.lexers.business',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\business.py',
-   'PYMODULE'),
-  ('pygments.lexers.math',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\math.py',
-   'PYMODULE'),
-  ('pygments.lexers.resource',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\resource.py',
-   'PYMODULE'),
-  ('pygments.lexers.rebol',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\rebol.py',
-   'PYMODULE'),
   ('pygments.lexers.textedit',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\textedit.py',
-   'PYMODULE'),
-  ('pygments.lexers.urbi',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\urbi.py',
-   'PYMODULE'),
-  ('pygments.lexers.roboconf',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\roboconf.py',
-   'PYMODULE'),
-  ('pygments.lexers.graphics',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\graphics.py',
-   'PYMODULE'),
-  ('pygments.lexers.functional',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\functional.py',
-   'PYMODULE'),
-  ('pygments.lexers.praat',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\praat.py',
-   'PYMODULE'),
-  ('pygments.lexers.crystal',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\crystal.py',
-   'PYMODULE'),
-  ('pygments.lexers.lisp',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\lisp.py',
-   'PYMODULE'),
-  ('pygments.lexers.css',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\css.py',
-   'PYMODULE'),
-  ('pygments.lexers.d',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\d.py',
-   'PYMODULE'),
-  ('pygments.lexers.compiled',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\compiled.py',
-   'PYMODULE'),
-  ('pygments.lexers.erlang',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\erlang.py',
-   'PYMODULE'),
-  ('pygments.lexers.parsers',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\parsers.py',
-   'PYMODULE'),
-  ('pygments.lexers.console',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\console.py',
-   'PYMODULE'),
-  ('pygments.lexers.whiley',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\whiley.py',
-   'PYMODULE'),
-  ('pygments.lexers._lua_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_lua_builtins.py',
-   'PYMODULE'),
-  ('pygments.lexers.installers',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\installers.py',
-   'PYMODULE'),
-  ('pygments.lexers.nimrod',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\nimrod.py',
-   'PYMODULE'),
-  ('pygments.lexers.qvt',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\qvt.py',
-   'PYMODULE'),
-  ('pygments.lexers.perl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\perl.py',
-   'PYMODULE'),
-  ('pygments.lexers.chapel',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\chapel.py',
-   'PYMODULE'),
-  ('pygments.lexers.smalltalk',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\smalltalk.py',
-   'PYMODULE'),
-  ('pygments.lexers.rust',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\rust.py',
-   'PYMODULE'),
-  ('pygments.lexers._csound_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_csound_builtins.py',
    'PYMODULE'),
   ('pygments.lexers.nit',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\nit.py',
    'PYMODULE'),
-  ('pygments.lexers.textfmts',
+  ('pygments.lexers.fortran',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\textfmts.py',
-   'PYMODULE'),
-  ('pygments.lexers.sql',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\sql.py',
-   'PYMODULE'),
-  ('pygments.lexers.r',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\r.py',
-   'PYMODULE'),
-  ('pygments.lexers.foxpro',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\foxpro.py',
-   'PYMODULE'),
-  ('pygments.lexers.diff',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\diff.py',
-   'PYMODULE'),
-  ('pygments.lexers.verification',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\verification.py',
-   'PYMODULE'),
-  ('pygments.lexers.modula2',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\modula2.py',
-   'PYMODULE'),
-  ('pygments.lexers.j',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\j.py',
-   'PYMODULE'),
-  ('pygments.lexers.parasail',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\parasail.py',
-   'PYMODULE'),
-  ('pygments.lexers.ncl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ncl.py',
-   'PYMODULE'),
-  ('pygments.lexers.jvm',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\jvm.py',
-   'PYMODULE'),
-  ('pygments.unistring',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\unistring.py',
-   'PYMODULE'),
-  ('pygments.lexers.inferno',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\inferno.py',
-   'PYMODULE'),
-  ('pygments.lexers.julia',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\julia.py',
-   'PYMODULE'),
-  ('pygments.lexers.varnish',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\varnish.py',
-   'PYMODULE'),
-  ('pygments.lexers.c_cpp',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\c_cpp.py',
-   'PYMODULE'),
-  ('pygments.lexers.templates',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\templates.py',
-   'PYMODULE'),
-  ('pygments.lexers.configs',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\configs.py',
-   'PYMODULE'),
-  ('pygments.lexers._openedge_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_openedge_builtins.py',
-   'PYMODULE'),
-  ('pygments.lexers.objective',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\objective.py',
-   'PYMODULE'),
-  ('pygments.lexers.ml',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ml.py',
-   'PYMODULE'),
-  ('pygments.lexers.forth',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\forth.py',
-   'PYMODULE'),
-  ('pygments.lexers.apl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\apl.py',
-   'PYMODULE'),
-  ('pygments.lexers.pawn',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\pawn.py',
-   'PYMODULE'),
-  ('pygments.lexers.scripting',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\scripting.py',
-   'PYMODULE'),
-  ('pygments.lexers.grammar_notation',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\grammar_notation.py',
-   'PYMODULE'),
-  ('pygments.lexers.iolang',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\iolang.py',
-   'PYMODULE'),
-  ('pygments.lexers.ruby',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ruby.py',
-   'PYMODULE'),
-  ('pygments.lexers.php',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\php.py',
-   'PYMODULE'),
-  ('pygments.lexers.markup',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\markup.py',
-   'PYMODULE'),
-  ('pygments.lexers.asm',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\asm.py',
-   'PYMODULE'),
-  ('pygments.lexers._vim_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_vim_builtins.py',
-   'PYMODULE'),
-  ('pygments.lexers.smv',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\smv.py',
-   'PYMODULE'),
-  ('pygments.lexers.ezhil',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ezhil.py',
-   'PYMODULE'),
-  ('pygments.lexers.text',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\text.py',
-   'PYMODULE'),
-  ('pygments.lexers.python',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\python.py',
-   'PYMODULE'),
-  ('pygments.lexers.other',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\other.py',
-   'PYMODULE'),
-  ('pygments.lexers.graph',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\graph.py',
-   'PYMODULE'),
-  ('pygments.lexers.snobol',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\snobol.py',
-   'PYMODULE'),
-  ('pygments.lexers.bibtex',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\bibtex.py',
-   'PYMODULE'),
-  ('pygments.lexers.eiffel',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\eiffel.py',
-   'PYMODULE'),
-  ('pygments.lexers.capnproto',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\capnproto.py',
-   'PYMODULE'),
-  ('pygments.lexers.go',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\go.py',
-   'PYMODULE'),
-  ('pygments.lexers.agile',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\agile.py',
-   'PYMODULE'),
-  ('pygments.lexers.ambient',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ambient.py',
-   'PYMODULE'),
-  ('pygments.lexers.clean',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\clean.py',
-   'PYMODULE'),
-  ('pygments.lexers.nix',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\nix.py',
-   'PYMODULE'),
-  ('pygments.lexers.csound',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\csound.py',
-   'PYMODULE'),
-  ('pygments.lexers.html',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\html.py',
-   'PYMODULE'),
-  ('pygments.lexers.elm',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\elm.py',
-   'PYMODULE'),
-  ('pygments.lexers.typoscript',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\typoscript.py',
-   'PYMODULE'),
-  ('pygments.lexers.haxe',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\haxe.py',
-   'PYMODULE'),
-  ('pygments.lexers.archetype',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\archetype.py',
-   'PYMODULE'),
-  ('pygments.lexers.hdl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\hdl.py',
-   'PYMODULE'),
-  ('pygments.lexers.x10',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\x10.py',
-   'PYMODULE'),
-  ('pygments.lexers.algebra',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\algebra.py',
-   'PYMODULE'),
-  ('pygments.lexers.automation',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\automation.py',
-   'PYMODULE'),
-  ('pygments.lexers.monte',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\monte.py',
-   'PYMODULE'),
-  ('pygments.lexers.webmisc',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\webmisc.py',
-   'PYMODULE'),
-  ('pygments.lexers.dalvik',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\dalvik.py',
-   'PYMODULE'),
-  ('pygments.lexers.matlab',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\matlab.py',
-   'PYMODULE'),
-  ('pygments.lexers._stata_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_stata_builtins.py',
-   'PYMODULE'),
-  ('pygments.lexers._postgres_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_postgres_builtins.py',
-   'PYMODULE'),
-  ('pygments.lexers._cocoa_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_cocoa_builtins.py',
-   'PYMODULE'),
-  ('pygments.lexers.make',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\make.py',
-   'PYMODULE'),
-  ('pygments.lexers._asy_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_asy_builtins.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\fortran.py',
    'PYMODULE'),
   ('pygments.lexers.pascal',
    'c:\\program files (x86)\\microsoft visual '
@@ -1911,165 +1539,537 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\scanner.py',
    'PYMODULE'),
-  ('pygments.lexers.fortran',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\fortran.py',
-   'PYMODULE'),
-  ('pygments.lexers.idl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\idl.py',
-   'PYMODULE'),
-  ('pygments.lexers.rdf',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\rdf.py',
-   'PYMODULE'),
-  ('pygments.lexers.rnc',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\rnc.py',
-   'PYMODULE'),
-  ('pygments.lexers.hexdump',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\hexdump.py',
-   'PYMODULE'),
-  ('pygments.lexers.actionscript',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\actionscript.py',
-   'PYMODULE'),
-  ('pygments.lexers.fantom',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\fantom.py',
-   'PYMODULE'),
-  ('pygments.lexers.testing',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\testing.py',
-   'PYMODULE'),
-  ('pygments.lexers.special',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\special.py',
-   'PYMODULE'),
-  ('pygments.lexers.shell',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\shell.py',
-   'PYMODULE'),
-  ('pygments.lexers.oberon',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\oberon.py',
-   'PYMODULE'),
-  ('pygments.lexers.theorem',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\theorem.py',
-   'PYMODULE'),
-  ('pygments.lexers._php_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_php_builtins.py',
-   'PYMODULE'),
-  ('pygments.lexers.prolog',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\prolog.py',
-   'PYMODULE'),
-  ('pygments.lexers.dylan',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\dylan.py',
-   'PYMODULE'),
-  ('pygments.lexers.factor',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\factor.py',
-   'PYMODULE'),
-  ('pygments.lexers.haskell',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\haskell.py',
-   'PYMODULE'),
-  ('pygments.lexers.dotnet',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\dotnet.py',
-   'PYMODULE'),
-  ('pygments.lexers.trafficscript',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\trafficscript.py',
-   'PYMODULE'),
-  ('pygments.lexers.ooc',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ooc.py',
-   'PYMODULE'),
-  ('pygments.lexers._lasso_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_lasso_builtins.py',
-   'PYMODULE'),
-  ('pygments.lexers.data',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\data.py',
-   'PYMODULE'),
-  ('pygments.lexers.sas',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\sas.py',
-   'PYMODULE'),
-  ('pygments.lexers.javascript',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\javascript.py',
-   'PYMODULE'),
-  ('pygments.lexers.esoteric',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\esoteric.py',
-   'PYMODULE'),
-  ('pygments.lexers.robotframework',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\robotframework.py',
-   'PYMODULE'),
-  ('pygments.lexers.igor',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\igor.py',
-   'PYMODULE'),
-  ('pygments.lexers.c_like',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\c_like.py',
-   'PYMODULE'),
   ('pygments.lexers.ecl',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ecl.py',
-   'PYMODULE'),
-  ('pygments.lexers.stata',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\stata.py',
-   'PYMODULE'),
-  ('pygments.lexers.web',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\web.py',
-   'PYMODULE'),
-  ('pygments.lexers.felix',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\felix.py',
-   'PYMODULE'),
-  ('pygments.lexers._scilab_builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_scilab_builtins.py',
-   'PYMODULE'),
-  ('pygments.lexers.tcl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\tcl.py',
-   'PYMODULE'),
-  ('pygments.lexers.basic',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\basic.py',
    'PYMODULE'),
   ('pygments.lexers.modeling',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\modeling.py',
    'PYMODULE'),
-  ('pygments.lexers._sourcemod_builtins',
+  ('pygments.lexers.prolog',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_sourcemod_builtins.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\prolog.py',
    'PYMODULE'),
-  ('pygments.lexers._cl_builtins',
+  ('pygments.lexers.dotnet',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_cl_builtins.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\dotnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.parasail',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\parasail.py',
+   'PYMODULE'),
+  ('pygments.lexers.rebol',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\rebol.py',
+   'PYMODULE'),
+  ('pygments.lexers.dalvik',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\dalvik.py',
+   'PYMODULE'),
+  ('pygments.lexers.robotframework',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\robotframework.py',
+   'PYMODULE'),
+  ('pygments.lexers.praat',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\praat.py',
+   'PYMODULE'),
+  ('pygments.lexers.objective',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\objective.py',
+   'PYMODULE'),
+  ('pygments.lexers.iolang',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\iolang.py',
+   'PYMODULE'),
+  ('pygments.lexers.snobol',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\snobol.py',
+   'PYMODULE'),
+  ('pygments.lexers.modula2',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\modula2.py',
+   'PYMODULE'),
+  ('pygments.lexers.elm',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\elm.py',
+   'PYMODULE'),
+  ('pygments.lexers.esoteric',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\esoteric.py',
+   'PYMODULE'),
+  ('pygments.lexers._vim_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_vim_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.inferno',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\inferno.py',
+   'PYMODULE'),
+  ('pygments.lexers.sas',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\sas.py',
+   'PYMODULE'),
+  ('pygments.lexers.text',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\text.py',
+   'PYMODULE'),
+  ('pygments.lexers.tcl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\tcl.py',
+   'PYMODULE'),
+  ('pygments.lexers.business',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\business.py',
    'PYMODULE'),
   ('pygments.lexers.supercollider',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\supercollider.py',
    'PYMODULE'),
-  ('pygments.formatters.terminal',
+  ('pygments.lexers.ambient',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\terminal.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ambient.py',
+   'PYMODULE'),
+  ('pygments.lexers.css',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\css.py',
+   'PYMODULE'),
+  ('pygments.lexers.archetype',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\archetype.py',
+   'PYMODULE'),
+  ('pygments.lexers.installers',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\installers.py',
+   'PYMODULE'),
+  ('pygments.lexers.textfmts',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\textfmts.py',
+   'PYMODULE'),
+  ('pygments.lexers._sourcemod_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_sourcemod_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.testing',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\testing.py',
+   'PYMODULE'),
+  ('pygments.lexers.make',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\make.py',
+   'PYMODULE'),
+  ('pygments.lexers.agile',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\agile.py',
+   'PYMODULE'),
+  ('pygments.lexers.whiley',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\whiley.py',
+   'PYMODULE'),
+  ('pygments.lexers.csound',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\csound.py',
+   'PYMODULE'),
+  ('pygments.lexers.d',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\d.py',
+   'PYMODULE'),
+  ('pygments.lexers.grammar_notation',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\grammar_notation.py',
+   'PYMODULE'),
+  ('pygments.lexers.hexdump',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\hexdump.py',
+   'PYMODULE'),
+  ('pygments.lexers.x10',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\x10.py',
+   'PYMODULE'),
+  ('pygments.lexers.apl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\apl.py',
+   'PYMODULE'),
+  ('pygments.lexers._postgres_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_postgres_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.haxe',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\haxe.py',
+   'PYMODULE'),
+  ('pygments.lexers._php_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_php_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.functional',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\functional.py',
+   'PYMODULE'),
+  ('pygments.lexers._csound_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_csound_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.scripting',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\scripting.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphics',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\graphics.py',
+   'PYMODULE'),
+  ('pygments.lexers.smalltalk',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\smalltalk.py',
+   'PYMODULE'),
+  ('pygments.lexers.markup',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\markup.py',
+   'PYMODULE'),
+  ('pygments.lexers.dylan',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\dylan.py',
+   'PYMODULE'),
+  ('pygments.lexers.ml',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ml.py',
+   'PYMODULE'),
+  ('pygments.lexers.diff',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\diff.py',
+   'PYMODULE'),
+  ('pygments.lexers.erlang',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\erlang.py',
+   'PYMODULE'),
+  ('pygments.lexers.theorem',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\theorem.py',
+   'PYMODULE'),
+  ('pygments.lexers.nimrod',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\nimrod.py',
+   'PYMODULE'),
+  ('pygments.lexers.compiled',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\compiled.py',
+   'PYMODULE'),
+  ('pygments.lexers.trafficscript',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\trafficscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.int_fiction',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\int_fiction.py',
+   'PYMODULE'),
+  ('pygments.lexers.ruby',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ruby.py',
+   'PYMODULE'),
+  ('pygments.lexers.go',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\go.py',
+   'PYMODULE'),
+  ('pygments.lexers.html',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\html.py',
+   'PYMODULE'),
+  ('pygments.lexers.lisp',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\lisp.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_cpp',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\c_cpp.py',
+   'PYMODULE'),
+  ('pygments.lexers.r',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\r.py',
+   'PYMODULE'),
+  ('pygments.lexers._cocoa_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_cocoa_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.templates',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\templates.py',
+   'PYMODULE'),
+  ('pygments.lexers.rnc',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\rnc.py',
+   'PYMODULE'),
+  ('pygments.lexers.nix',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\nix.py',
+   'PYMODULE'),
+  ('pygments.lexers.j',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\j.py',
+   'PYMODULE'),
+  ('pygments.lexers.monte',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\monte.py',
+   'PYMODULE'),
+  ('pygments.lexers.haskell',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\haskell.py',
+   'PYMODULE'),
+  ('pygments.lexers.resource',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\resource.py',
+   'PYMODULE'),
+  ('pygments.lexers.hdl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\hdl.py',
+   'PYMODULE'),
+  ('pygments.lexers.data',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\data.py',
+   'PYMODULE'),
+  ('pygments.lexers.crystal',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\crystal.py',
+   'PYMODULE'),
+  ('pygments.lexers.python',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\python.py',
+   'PYMODULE'),
+  ('pygments.lexers.dsls',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\dsls.py',
+   'PYMODULE'),
+  ('pygments.lexers.web',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\web.py',
+   'PYMODULE'),
+  ('pygments.lexers.shell',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\shell.py',
+   'PYMODULE'),
+  ('pygments.lexers._cl_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_cl_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.eiffel',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\eiffel.py',
+   'PYMODULE'),
+  ('pygments.lexers.qvt',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\qvt.py',
+   'PYMODULE'),
+  ('pygments.lexers.oberon',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\oberon.py',
+   'PYMODULE'),
+  ('pygments.lexers.bibtex',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\bibtex.py',
+   'PYMODULE'),
+  ('pygments.lexers.urbi',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\urbi.py',
+   'PYMODULE'),
+  ('pygments.lexers.roboconf',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\roboconf.py',
+   'PYMODULE'),
+  ('pygments.lexers.ampl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ampl.py',
+   'PYMODULE'),
+  ('pygments.lexers.pawn',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\pawn.py',
+   'PYMODULE'),
+  ('pygments.lexers.sql',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\sql.py',
+   'PYMODULE'),
+  ('pygments.lexers.varnish',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\varnish.py',
+   'PYMODULE'),
+  ('pygments.lexers.special',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\special.py',
+   'PYMODULE'),
+  ('pygments.lexers.julia',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\julia.py',
+   'PYMODULE'),
+  ('pygments.lexers.jvm',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\jvm.py',
+   'PYMODULE'),
+  ('pygments.lexers.math',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\math.py',
+   'PYMODULE'),
+  ('pygments.lexers.foxpro',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\foxpro.py',
+   'PYMODULE'),
+  ('pygments.lexers.javascript',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\javascript.py',
+   'PYMODULE'),
+  ('pygments.lexers.stata',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\stata.py',
+   'PYMODULE'),
+  ('pygments.lexers.forth',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\forth.py',
+   'PYMODULE'),
+  ('pygments.lexers._stata_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_stata_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.rdf',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\rdf.py',
+   'PYMODULE'),
+  ('pygments.lexers.actionscript',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\actionscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.factor',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\factor.py',
+   'PYMODULE'),
+  ('pygments.lexers.other',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\other.py',
+   'PYMODULE'),
+  ('pygments.lexers.matlab',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\matlab.py',
+   'PYMODULE'),
+  ('pygments.lexers.chapel',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\chapel.py',
+   'PYMODULE'),
+  ('pygments.lexers.webmisc',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\webmisc.py',
+   'PYMODULE'),
+  ('pygments.lexers.clean',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\clean.py',
+   'PYMODULE'),
+  ('pygments.lexers.console',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\console.py',
+   'PYMODULE'),
+  ('pygments.lexers.ooc',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ooc.py',
+   'PYMODULE'),
+  ('pygments.lexers.smv',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\smv.py',
+   'PYMODULE'),
+  ('pygments.lexers.php',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\php.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_like',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\c_like.py',
+   'PYMODULE'),
+  ('pygments.lexers.capnproto',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\capnproto.py',
+   'PYMODULE'),
+  ('pygments.lexers.graph',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\graph.py',
+   'PYMODULE'),
+  ('pygments.lexers.igor',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\igor.py',
+   'PYMODULE'),
+  ('pygments.lexers._lua_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_lua_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.configs',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\configs.py',
+   'PYMODULE'),
+  ('pygments.lexers.felix',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\felix.py',
+   'PYMODULE'),
+  ('pygments.lexers.rust',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\rust.py',
+   'PYMODULE'),
+  ('pygments.lexers._asy_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_asy_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.perl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\perl.py',
+   'PYMODULE'),
+  ('pygments.lexers.ncl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ncl.py',
+   'PYMODULE'),
+  ('pygments.lexers.algebra',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\algebra.py',
+   'PYMODULE'),
+  ('pygments.lexers.fantom',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\fantom.py',
+   'PYMODULE'),
+  ('pygments.lexers.idl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\idl.py',
+   'PYMODULE'),
+  ('pygments.lexers.asm',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\asm.py',
+   'PYMODULE'),
+  ('pygments.lexers.parsers',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\parsers.py',
+   'PYMODULE'),
+  ('pygments.unistring',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\unistring.py',
+   'PYMODULE'),
+  ('pygments.lexers.verification',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\verification.py',
+   'PYMODULE'),
+  ('pygments.lexers._openedge_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_openedge_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.basic',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\basic.py',
+   'PYMODULE'),
+  ('pygments.lexers.typoscript',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\typoscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.ezhil',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\ezhil.py',
+   'PYMODULE'),
+  ('pygments.lexers._lasso_builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\lexers\\_lasso_builtins.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal256',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\terminal256.py',
    'PYMODULE'),
   ('pygments.console',
    'c:\\program files (x86)\\microsoft visual '
@@ -2079,17 +2079,9 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatter.py',
    'PYMODULE'),
-  ('pygments.formatters.html',
+  ('pygments.formatters.other',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\html.py',
-   'PYMODULE'),
-  ('pygments.formatters.rtf',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\rtf.py',
-   'PYMODULE'),
-  ('pygments.formatters.terminal256',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\terminal256.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\other.py',
    'PYMODULE'),
   ('pygments.formatters.img',
    'c:\\program files (x86)\\microsoft visual '
@@ -2127,13 +2119,45 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\Image.py',
    'PYMODULE'),
-  ('PIL.PcdImagePlugin',
+  ('PIL.IcoImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
    'PYMODULE'),
   ('PIL.ImageFile',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
    'PYMODULE'),
   ('PIL.SpiderImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
@@ -2143,17 +2167,89 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\ImageTk.py',
    'PYMODULE'),
-  ('PIL.PalmImagePlugin',
+  ('PIL.BufrStubImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('olefile',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\olefile\\__init__.py',
+   'PYMODULE'),
+  ('olefile.olefile',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\olefile\\olefile.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\MicImagePlugin.py',
    'PYMODULE'),
   ('PIL.Hdf5StubImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
    'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
   ('PIL.FliImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
    'PYMODULE'),
   ('PIL.TiffImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
@@ -2167,13 +2263,33 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\TiffTags.py',
    'PYMODULE'),
-  ('PIL.ImImagePlugin',
+  ('PIL.PsdImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
    'PYMODULE'),
-  ('PIL.PixarImagePlugin',
+  ('PIL.MpegImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
    'PYMODULE'),
   ('PIL.PdfImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
@@ -2187,137 +2303,13 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\ImageSequence.py',
    'PYMODULE'),
-  ('PIL.PcxImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.WebPImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MpoImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DcxImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.ImtImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XbmImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
-   'PYMODULE'),
   ('PIL.BlpImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
    'PYMODULE'),
-  ('PIL.XpmImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.TgaImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
-   'PYMODULE'),
   ('PIL.FtexImagePlugin',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.XVThumbImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.PsdImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MicImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\MicImagePlugin.py',
-   'PYMODULE'),
-  ('olefile',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\olefile\\__init__.py',
-   'PYMODULE'),
-  ('olefile.olefile',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\olefile\\olefile.py',
-   'PYMODULE'),
-  ('PIL.Jpeg2KImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FpxImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MspImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\MspImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SgiImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.DdsImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.McIdasImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.MpegImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.FitsStubImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.WmfImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.CurImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\CurImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.SunImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\SunImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.GbrImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IcnsImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.EpsImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.GribStubImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IptcImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.IcoImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
-   'PYMODULE'),
-  ('PIL.BufrStubImagePlugin',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
    'PYMODULE'),
   ('PIL.ImageShow',
    'c:\\program files (x86)\\microsoft visual '
@@ -2523,6 +2515,50 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\__init__.py',
    'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.six',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\six.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
   ('setuptools._vendor.packaging.requirements',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
@@ -2538,50 +2574,6 @@
   ('setuptools.extern',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\extern\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.__about__',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
-   'PYMODULE'),
-  ('setuptools._vendor',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.utils',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.markers',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.version',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging._compat',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
-   'PYMODULE'),
-  ('setuptools._vendor.six',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\six.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging._structures',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.specifiers',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
   ('setuptools.msvc',
    'c:\\program files (x86)\\microsoft visual '
@@ -4123,9 +4115,9 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\PIL\\version.py',
    'PYMODULE'),
-  ('pygments.formatters.bbcode',
+  ('pygments.formatters.html',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\bbcode.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\html.py',
    'PYMODULE'),
   ('pygments.formatters.irc',
    'c:\\program files (x86)\\microsoft visual '
@@ -4135,13 +4127,21 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\svg.py',
    'PYMODULE'),
-  ('pygments.formatters.other',
+  ('pygments.formatters.rtf',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\other.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\rtf.py',
    'PYMODULE'),
   ('pygments.formatters.latex',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\latex.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\terminal.py',
+   'PYMODULE'),
+  ('pygments.formatters.bbcode',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\pygments\\formatters\\bbcode.py',
    'PYMODULE'),
   ('pygments.cmdline',
    'c:\\program files (x86)\\microsoft visual '
@@ -4655,7 +4655,6 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\zmq\\__init__.py',
    'PYMODULE'),
-  ('include', '-', 'PYMODULE'),
   ('zmq.backend.cffi',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\zmq\\backend\\cffi\\__init__.py',
@@ -4720,10 +4719,6 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\zmq\\backend\\cffi\\constants.py',
    'PYMODULE'),
-  ('zmq.backend.cython',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\zmq\\backend\\cython\\__init__.py',
-   'PYMODULE'),
   ('zmq.backend.select',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\zmq\\backend\\select.py',
@@ -4731,6 +4726,11 @@
   ('zmq.utils.sixcerpt',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\zmq\\utils\\sixcerpt.py',
+   'PYMODULE'),
+  ('include', '-', 'PYMODULE'),
+  ('zmq.backend.cython',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\zmq\\backend\\cython\\__init__.py',
    'PYMODULE'),
   ('zmq.utils.garbage',
    'c:\\program files (x86)\\microsoft visual '
@@ -4904,121 +4904,121 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\__init__.py',
    'PYMODULE'),
-  ('gevent.server',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\server.py',
-   'PYMODULE'),
-  ('gevent.libuv.watcher',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libuv\\watcher.py',
-   'PYMODULE'),
   ('gevent._ffi.callback',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_ffi\\callback.py',
    'PYMODULE'),
-  ('gevent._patcher',
+  ('gevent.resolver',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_patcher.py',
-   'PYMODULE'),
-  ('gevent.baseserver',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\baseserver.py',
-   'PYMODULE'),
-  ('gevent._threading',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_threading.py',
-   'PYMODULE'),
-  ('gevent.resolver.dnspython',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\resolver\\dnspython.py',
-   'PYMODULE'),
-  ('gevent._ffi.loop',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_ffi\\loop.py',
-   'PYMODULE'),
-  ('gevent._imap',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_imap.py',
-   'PYMODULE'),
-  ('gevent.resolver.blocking',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\resolver\\blocking.py',
-   'PYMODULE'),
-  ('gevent.queue',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\queue.py',
-   'PYMODULE'),
-  ('gevent.ares',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\ares.py',
-   'PYMODULE'),
-  ('gevent.builtins',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\builtins.py',
-   'PYMODULE'),
-  ('gevent._ffi.watcher',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_ffi\\watcher.py',
-   'PYMODULE'),
-  ('gevent._interfaces',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_interfaces.py',
-   'PYMODULE'),
-  ('gevent.pool',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\pool.py',
-   'PYMODULE'),
-  ('gevent.libev',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libev\\__init__.py',
-   'PYMODULE'),
-  ('gevent.libev._corecffi_build',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libev\\_corecffi_build.py',
-   'PYMODULE'),
-  ('gevent.resolver.thread',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\resolver\\thread.py',
-   'PYMODULE'),
-  ('gevent.libuv',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libuv\\__init__.py',
-   'PYMODULE'),
-  ('gevent.backdoor',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\backdoor.py',
-   'PYMODULE'),
-  ('gevent.libuv._corecffi_build',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libuv\\_corecffi_build.py',
-   'PYMODULE'),
-  ('gevent.libuv.loop',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libuv\\loop.py',
-   'PYMODULE'),
-  ('gevent.time',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\time.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\resolver\\__init__.py',
    'PYMODULE'),
   ('gevent.pywsgi',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\pywsgi.py',
    'PYMODULE'),
-  ('gevent._ffi',
+  ('gevent._ffi.watcher',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_ffi\\__init__.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_ffi\\watcher.py',
    'PYMODULE'),
-  ('gevent.libev.corecffi',
+  ('gevent._ffi.loop',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libev\\corecffi.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_ffi\\loop.py',
    'PYMODULE'),
   ('gevent.resolver.ares',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\resolver\\ares.py',
    'PYMODULE'),
-  ('gevent.resolver',
+  ('gevent.resolver.blocking',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\resolver\\__init__.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\resolver\\blocking.py',
+   'PYMODULE'),
+  ('gevent.libev.corecffi',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libev\\corecffi.py',
+   'PYMODULE'),
+  ('gevent.libuv._corecffi_build',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libuv\\_corecffi_build.py',
+   'PYMODULE'),
+  ('gevent.resolver.thread',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\resolver\\thread.py',
+   'PYMODULE'),
+  ('gevent.time',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\time.py',
+   'PYMODULE'),
+  ('gevent.libuv.watcher',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libuv\\watcher.py',
+   'PYMODULE'),
+  ('gevent.resolver.dnspython',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\resolver\\dnspython.py',
+   'PYMODULE'),
+  ('gevent.pool',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\pool.py',
+   'PYMODULE'),
+  ('gevent.ares',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\ares.py',
+   'PYMODULE'),
+  ('gevent._threading',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_threading.py',
+   'PYMODULE'),
+  ('gevent.libuv.loop',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libuv\\loop.py',
+   'PYMODULE'),
+  ('gevent._interfaces',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_interfaces.py',
+   'PYMODULE'),
+  ('gevent._imap',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_imap.py',
+   'PYMODULE'),
+  ('gevent.baseserver',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\baseserver.py',
+   'PYMODULE'),
+  ('gevent.builtins',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\builtins.py',
+   'PYMODULE'),
+  ('gevent.backdoor',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\backdoor.py',
+   'PYMODULE'),
+  ('gevent.queue',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\queue.py',
+   'PYMODULE'),
+  ('gevent.server',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\server.py',
+   'PYMODULE'),
+  ('gevent.libev',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libev\\__init__.py',
+   'PYMODULE'),
+  ('gevent.libuv',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libuv\\__init__.py',
+   'PYMODULE'),
+  ('gevent.libev._corecffi_build',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\libev\\_corecffi_build.py',
+   'PYMODULE'),
+  ('gevent._patcher',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_patcher.py',
+   'PYMODULE'),
+  ('gevent._ffi',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\gevent\\_ffi\\__init__.py',
    'PYMODULE'),
   ('gevent.libev.watcher',
    'c:\\program files (x86)\\microsoft visual '
@@ -7740,241 +7740,241 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\__init__.py',
    'PYMODULE'),
-  ('docutils.parsers.rst.directives.parts',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\parts.py',
-   'PYMODULE'),
   ('docutils.parsers.rst.directives.references',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\references.py',
    'PYMODULE'),
-  ('docutils.parsers.rst.languages.sv',
+  ('docutils.parsers.rst.directives.parts',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\sv.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.ja',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ja.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.he',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\he.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.it',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\it.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.lv',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\lv.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.gl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\gl.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.da',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\da.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.fa',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\fa.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.nl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\nl.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.fr',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\fr.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\parts.py',
    'PYMODULE'),
   ('docutils.parsers.rst.languages.cs',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\cs.py',
    'PYMODULE'),
-  ('docutils.parsers.rst.languages.es',
+  ('docutils.parsers.rst.languages.fi',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\es.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.de',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\de.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\fi.py',
    'PYMODULE'),
   ('docutils.parsers.rst.languages.pl',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\pl.py',
    'PYMODULE'),
-  ('docutils.parsers.rst.languages.ca',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ca.py',
-   'PYMODULE'),
   ('docutils.parsers.rst.languages.zh_cn',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\zh_cn.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.lt',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\lt.py',
    'PYMODULE'),
   ('docutils.parsers.rst.languages.af',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\af.py',
    'PYMODULE'),
-  ('docutils.parsers.rst.languages.zh_tw',
+  ('docutils.parsers.rst.languages.it',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\zh_tw.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\it.py',
    'PYMODULE'),
-  ('docutils.parsers.rst.languages.sk',
+  ('docutils.parsers.rst.languages.sv',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\sk.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\sv.py',
    'PYMODULE'),
-  ('docutils.parsers.rst.languages.eo',
+  ('docutils.parsers.rst.languages.lv',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\eo.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.ru',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ru.py',
-   'PYMODULE'),
-  ('docutils.parsers.rst.languages.fi',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\fi.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\lv.py',
    'PYMODULE'),
   ('docutils.parsers.rst.languages.pt_br',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\pt_br.py',
    'PYMODULE'),
-  ('docutils.writers.pep_html',
+  ('docutils.parsers.rst.languages.zh_tw',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\pep_html\\__init__.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\zh_tw.py',
    'PYMODULE'),
-  ('docutils.writers.null',
+  ('docutils.parsers.rst.languages.eo',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\null.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\eo.py',
    'PYMODULE'),
-  ('docutils.writers.pseudoxml',
+  ('docutils.parsers.rst.languages.es',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\pseudoxml.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\es.py',
    'PYMODULE'),
-  ('docutils.writers.docutils_xml',
+  ('docutils.parsers.rst.languages.ja',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\docutils_xml.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ja.py',
    'PYMODULE'),
-  ('docutils.writers.xetex',
+  ('docutils.parsers.rst.languages.gl',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\xetex\\__init__.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\gl.py',
    'PYMODULE'),
-  ('docutils.writers.odf_odt.pygmentsformatter',
+  ('docutils.parsers.rst.languages.lt',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\odf_odt\\pygmentsformatter.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\lt.py',
    'PYMODULE'),
-  ('docutils.writers.odf_odt',
+  ('docutils.parsers.rst.languages.fa',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\odf_odt\\__init__.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\fa.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.fr',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\fr.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ru',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ru.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ca',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ca.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.sk',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\sk.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.nl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\nl.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.de',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\de.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.he',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\he.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.da',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\da.py',
    'PYMODULE'),
   ('docutils.writers.s5_html',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\s5_html\\__init__.py',
    'PYMODULE'),
+  ('docutils.writers.odf_odt.pygmentsformatter',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\odf_odt\\pygmentsformatter.py',
+   'PYMODULE'),
+  ('docutils.writers.docutils_xml',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\docutils_xml.py',
+   'PYMODULE'),
+  ('docutils.writers.odf_odt',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\odf_odt\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.pseudoxml',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\pseudoxml.py',
+   'PYMODULE'),
+  ('docutils.writers.pep_html',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\pep_html\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.xetex',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\xetex\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.null',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\writers\\null.py',
+   'PYMODULE'),
   ('docutils.languages.gl',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\gl.py',
-   'PYMODULE'),
-  ('docutils.languages.fi',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\fi.py',
-   'PYMODULE'),
-  ('docutils.languages.de',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\de.py',
-   'PYMODULE'),
-  ('docutils.languages.sk',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\sk.py',
-   'PYMODULE'),
-  ('docutils.languages.zh_tw',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\zh_tw.py',
-   'PYMODULE'),
-  ('docutils.languages.cs',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\cs.py',
-   'PYMODULE'),
-  ('docutils.languages.nl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\nl.py',
-   'PYMODULE'),
-  ('docutils.languages.ja',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\ja.py',
-   'PYMODULE'),
-  ('docutils.languages.sv',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\sv.py',
    'PYMODULE'),
   ('docutils.languages.fr',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\fr.py',
    'PYMODULE'),
-  ('docutils.languages.af',
+  ('docutils.languages.cs',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\af.py',
-   'PYMODULE'),
-  ('docutils.languages.pl',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\pl.py',
-   'PYMODULE'),
-  ('docutils.languages.da',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\da.py',
-   'PYMODULE'),
-  ('docutils.languages.fa',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\fa.py',
-   'PYMODULE'),
-  ('docutils.languages.lt',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\lt.py',
-   'PYMODULE'),
-  ('docutils.languages.es',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\es.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\cs.py',
    'PYMODULE'),
   ('docutils.languages.zh_cn',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\zh_cn.py',
    'PYMODULE'),
-  ('docutils.languages.lv',
+  ('docutils.languages.es',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\lv.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\es.py',
    'PYMODULE'),
-  ('docutils.languages.eo',
+  ('docutils.languages.it',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\eo.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\it.py',
    'PYMODULE'),
-  ('docutils.languages.en',
+  ('docutils.languages.da',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\en.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\da.py',
+   'PYMODULE'),
+  ('docutils.languages.lt',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\lt.py',
+   'PYMODULE'),
+  ('docutils.languages.pl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\pl.py',
    'PYMODULE'),
   ('docutils.languages.ca',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\ca.py',
    'PYMODULE'),
-  ('docutils.languages.he',
+  ('docutils.languages.zh_tw',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\he.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\zh_tw.py',
    'PYMODULE'),
-  ('docutils.languages.ru',
+  ('docutils.languages.eo',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\ru.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\eo.py',
+   'PYMODULE'),
+  ('docutils.languages.lv',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\lv.py',
+   'PYMODULE'),
+  ('docutils.languages.de',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\de.py',
+   'PYMODULE'),
+  ('docutils.languages.af',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\af.py',
+   'PYMODULE'),
+  ('docutils.languages.en',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\en.py',
+   'PYMODULE'),
+  ('docutils.languages.sv',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\sv.py',
    'PYMODULE'),
   ('docutils.languages.pt_br',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\pt_br.py',
    'PYMODULE'),
-  ('docutils.languages.it',
+  ('docutils.languages.ja',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\it.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\ja.py',
+   'PYMODULE'),
+  ('docutils.languages.he',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\he.py',
+   'PYMODULE'),
+  ('docutils.languages.fa',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\fa.py',
+   'PYMODULE'),
+  ('docutils.languages.sk',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\sk.py',
+   'PYMODULE'),
+  ('docutils.languages.nl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\nl.py',
+   'PYMODULE'),
+  ('docutils.languages.fi',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\fi.py',
+   'PYMODULE'),
+  ('docutils.languages.ru',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\docutils\\languages\\ru.py',
    'PYMODULE'),
   ('sphinx.domains.c',
    'c:\\program files (x86)\\microsoft visual '
@@ -8096,6 +8096,10 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\builders\\applehelp.py',
    'PYMODULE'),
+  ('sphinx.domains.cpp',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\domains\\cpp.py',
+   'PYMODULE'),
   ('sphinx.domains.javascript',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\domains\\javascript.py',
@@ -8103,26 +8107,6 @@
   ('sphinx.domains.rst',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\domains\\rst.py',
-   'PYMODULE'),
-  ('sphinx.domains.cpp',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\domains\\cpp.py',
-   'PYMODULE'),
-  ('sphinx.websupport.search.whooshsearch',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\websupport\\search\\whooshsearch.py',
-   'PYMODULE'),
-  ('sphinxcontrib.websupport.search.whooshsearch',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinxcontrib\\websupport\\search\\whooshsearch.py',
-   'PYMODULE'),
-  ('sphinx.websupport.search.nullsearch',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\websupport\\search\\nullsearch.py',
-   'PYMODULE'),
-  ('sphinxcontrib.websupport.search.nullsearch',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinxcontrib\\websupport\\search\\nullsearch.py',
    'PYMODULE'),
   ('sphinx.websupport.search',
    'c:\\program files (x86)\\microsoft visual '
@@ -8132,6 +8116,14 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\websupport\\__init__.py',
    'PYMODULE'),
+  ('sphinx.websupport.search.nullsearch',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\websupport\\search\\nullsearch.py',
+   'PYMODULE'),
+  ('sphinxcontrib.websupport.search.nullsearch',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinxcontrib\\websupport\\search\\nullsearch.py',
+   'PYMODULE'),
   ('sphinx.websupport.search.xapiansearch',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\websupport\\search\\xapiansearch.py',
@@ -8139,6 +8131,14 @@
   ('sphinxcontrib.websupport.search.xapiansearch',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinxcontrib\\websupport\\search\\xapiansearch.py',
+   'PYMODULE'),
+  ('sphinx.websupport.search.whooshsearch',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\websupport\\search\\whooshsearch.py',
+   'PYMODULE'),
+  ('sphinxcontrib.websupport.search.whooshsearch',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinxcontrib\\websupport\\search\\whooshsearch.py',
    'PYMODULE'),
   ('sphinx.search.no',
    'c:\\program files (x86)\\microsoft visual '
@@ -8220,89 +8220,69 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\snowballstemmer\\danish_stemmer.py',
    'PYMODULE'),
-  ('sphinx.search.fi',
+  ('sphinx.search.nl',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\fi.py',
-   'PYMODULE'),
-  ('sphinx.search.zh',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\zh.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\nl.py',
    'PYMODULE'),
   ('sphinx.search.da',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\da.py',
    'PYMODULE'),
-  ('sphinx.search.tr',
+  ('sphinx.search.zh',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\tr.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\zh.py',
    'PYMODULE'),
   ('sphinx.search.ru',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\ru.py',
    'PYMODULE'),
-  ('sphinx.search.pt',
+  ('sphinx.search.ja',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\pt.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\ja.py',
+   'PYMODULE'),
+  ('sphinx.search.fi',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\fi.py',
+   'PYMODULE'),
+  ('sphinx.search.tr',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\tr.py',
    'PYMODULE'),
   ('sphinx.search.ro',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\ro.py',
    'PYMODULE'),
-  ('sphinx.search.it',
+  ('sphinx.search.sv',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\it.py',
-   'PYMODULE'),
-  ('sphinx.search.hu',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\hu.py',
-   'PYMODULE'),
-  ('sphinx.search.de',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\de.py',
-   'PYMODULE'),
-  ('sphinx.search.es',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\es.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\sv.py',
    'PYMODULE'),
   ('sphinx.search.fr',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\fr.py',
    'PYMODULE'),
-  ('sphinx.search.sv',
+  ('sphinx.search.it',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\sv.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\it.py',
    'PYMODULE'),
-  ('sphinx.search.nl',
+  ('sphinx.search.de',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\nl.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\de.py',
    'PYMODULE'),
-  ('sphinx.search.ja',
+  ('sphinx.search.hu',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\ja.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\hu.py',
    'PYMODULE'),
-  ('sphinx.ext.imgconverter',
+  ('sphinx.search.es',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\imgconverter.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\es.py',
    'PYMODULE'),
-  ('sphinx.ext.coverage',
+  ('sphinx.search.pt',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\coverage.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\search\\pt.py',
    'PYMODULE'),
-  ('sphinx.ext.inheritance_diagram',
+  ('sphinx.ext.napoleon.docstring',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\inheritance_diagram.py',
-   'PYMODULE'),
-  ('sphinx.ext.autosummary',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\autosummary\\__init__.py',
-   'PYMODULE'),
-  ('sphinx.ext.jsmath',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\jsmath.py',
-   'PYMODULE'),
-  ('sphinx.ext.intersphinx',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\intersphinx.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\napoleon\\docstring.py',
    'PYMODULE'),
   ('sphinx.ext.imgmath',
    'c:\\program files (x86)\\microsoft visual '
@@ -8312,29 +8292,9 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\util\\png.py',
    'PYMODULE'),
-  ('sphinx.ext.napoleon.docstring',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\napoleon\\docstring.py',
-   'PYMODULE'),
-  ('sphinx.ext.pngmath',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\pngmath.py',
-   'PYMODULE'),
-  ('sphinx.ext.todo',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\todo.py',
-   'PYMODULE'),
   ('sphinx.ext.napoleon.iterators',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\napoleon\\iterators.py',
-   'PYMODULE'),
-  ('sphinx.ext.napoleon',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\napoleon\\__init__.py',
-   'PYMODULE'),
-  ('sphinx.ext.mathjax',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\mathjax.py',
    'PYMODULE'),
   ('sphinx.ext.apidoc',
    'c:\\program files (x86)\\microsoft visual '
@@ -8348,33 +8308,73 @@
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\linkcode.py',
    'PYMODULE'),
-  ('sphinx.ext.viewcode',
+  ('sphinx.ext.inheritance_diagram',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\viewcode.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\inheritance_diagram.py',
    'PYMODULE'),
-  ('sphinx.ext.mathbase',
+  ('sphinx.ext.mathjax',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\mathbase.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\mathjax.py',
    'PYMODULE'),
-  ('sphinx.ext.githubpages',
+  ('sphinx.ext.graphviz',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\githubpages.py',
-   'PYMODULE'),
-  ('sphinx.ext.autosummary.generate',
-   'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\autosummary\\generate.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\graphviz.py',
    'PYMODULE'),
   ('sphinx.ext.ifconfig',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\ifconfig.py',
    'PYMODULE'),
+  ('sphinx.ext.imgconverter',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\imgconverter.py',
+   'PYMODULE'),
+  ('sphinx.ext.autosummary.generate',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\autosummary\\generate.py',
+   'PYMODULE'),
+  ('sphinx.ext.todo',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\todo.py',
+   'PYMODULE'),
+  ('sphinx.ext.autosummary',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\autosummary\\__init__.py',
+   'PYMODULE'),
   ('sphinx.ext.autosectionlabel',
    'c:\\program files (x86)\\microsoft visual '
    'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\autosectionlabel.py',
    'PYMODULE'),
-  ('sphinx.ext.graphviz',
+  ('sphinx.ext.coverage',
    'c:\\program files (x86)\\microsoft visual '
-   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\graphviz.py',
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\coverage.py',
+   'PYMODULE'),
+  ('sphinx.ext.viewcode',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\viewcode.py',
+   'PYMODULE'),
+  ('sphinx.ext.githubpages',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\githubpages.py',
+   'PYMODULE'),
+  ('sphinx.ext.napoleon',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\napoleon\\__init__.py',
+   'PYMODULE'),
+  ('sphinx.ext.pngmath',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\pngmath.py',
+   'PYMODULE'),
+  ('sphinx.ext.mathbase',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\mathbase.py',
+   'PYMODULE'),
+  ('sphinx.ext.intersphinx',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\intersphinx.py',
+   'PYMODULE'),
+  ('sphinx.ext.jsmath',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\anaconda3_64\\lib\\site-packages\\sphinx\\ext\\jsmath.py',
    'PYMODULE'),
   ('sphinx.ext.extlinks',
    'c:\\program files (x86)\\microsoft visual '

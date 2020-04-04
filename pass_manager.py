@@ -52,8 +52,17 @@ def pass_db_append(url_str):
     else:
         pass_db_create(url_str)
 
+def pass_db_delete(url_str):
+    f = h5py.File(db_str,'a')
+    url_grp = f["URL_LIST"]
+    del url_grp[url_str[0].encode('ascii')]
+
 def pass_db_read (url_str):
     f = h5py.File(db_str,'r')
+    check = f.get('URL_LIST')
+    if(url_str[0] not in list(check.keys())):
+        print('Error: web page does not exist.')
+        sys.exit()
     data = f.get('URL_LIST/'+url_str[0]+'/Password')
     pwd = list(data.attrs.values())
     return pwd[0]
@@ -65,6 +74,8 @@ parser.add_argument('--create',dest='accumulator',action='store_const',
                     const=pass_db_create, help='Need url to gen password')
 parser.add_argument('--append',dest='accumulator',action='store_const',
                     const=pass_db_append, help='Need url to gen password')
+parser.add_argument('--delete',dest='accumulator',action='store_const',
+                    const=pass_db_delete, help='Need url to gen password')
 parser.add_argument('--read',dest='accumulator',action='store_const',
                     const=pass_db_read, help='Need url to gen password')
 

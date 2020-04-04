@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['pass_manager.py'],
-             pathex=['C:\\Users\\crodgers2\\Desktop\\PasswordMagager'],
+             pathex=['C:\\Users\\crodgers2\\Desktop\\PasswordMagager\\PasswordManager'],
              binaries=[],
              datas=[],
              hiddenimports=[],
