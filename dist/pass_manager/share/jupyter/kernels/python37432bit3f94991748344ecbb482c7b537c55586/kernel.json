@@ -1,0 +1,39 @@
+{
+  "argv": [
+    "C:\\Users\\crodgers2\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3.7.4 32-bit",
+  "language": "python",
+  "env": {},
+  "metadata": {
+    "interpreter": {
+      "architecture": 2,
+      "path": "C:\\Users\\crodgers2\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.4-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.4-final"
+      },
+      "sysPrefix": "C:\\Users\\crodgers2\\AppData\\Local\\Programs\\Python\\Python37-32",
+      "fileHash": "c93e562735b4b53e8d16c7dd2df3bac77dd3aa344821ff3baefb4f2bf4c0062337d9450c7820253e67d5a69516923e36d47fa8fd25de70d15efc0f3d75733dc0",
+      "type": "Unknown",
+      "displayName": "Python 3.7.4 32-bit",
+      "__store": true
+    }
+  }
+}
