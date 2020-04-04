@@ -17,6 +17,9 @@ Creates a new database initalized with \<url> and \<new_password> is optional
 --append:
 add a new \<url> with optional \<new_password>
 
+--delete:
+delete a previous \<url>
+
 --read:
 read password for \<url>
 
