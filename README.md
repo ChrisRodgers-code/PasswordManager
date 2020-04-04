@@ -11,9 +11,14 @@ pass_manager.exe \<option> \<url> \<new_password=null>
 
 Options:
 
---create    :Creates a new database initalized with <url> and <new_password> is optional
---append    :add a new <url> with optional <new_password>
---read      :read password for <url>
+--create:
+Creates a new database initalized with \<url> and \<new_password> is optional
+
+--append:
+add a new \<url> with optional \<new_password>
+
+--read:
+read password for \<url>
 
 URL:
 
